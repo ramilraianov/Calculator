@@ -1,3 +1,5 @@
+package ru.raianov;
+
 import ru.raianov.CalculatorApp;
 import ru.raianov.calculator.Calculator;
 import ru.raianov.formatter.Formatter;
